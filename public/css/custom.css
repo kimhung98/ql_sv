@@ -1,0 +1,30 @@
+.header {
+    padding: 10px;
+    background: #faf4cb;
+    margin-bottom: 10px;
+}
+
+.is-flex {
+    display: flex;
+}
+
+.is-flex button {
+    min-width: 130px;
+    margin-left: 10px;
+}
+
+.content-top {
+    margin-bottom: 10px;
+}
+
+.action {
+    display: flex;
+}
+
+.form {
+    justify-content: center !important;
+}
+
+.button {
+    margin-top: 10px;
+}
